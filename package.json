@@ -1,0 +1,12 @@
+{
+    "name": "AlexaMQTT",
+    "description": "Alexa and MQTT",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_rpi0w-remocon.json",
+            "credentialsFile": "flows_rpi0w-remocon_cred.json"
+        }
+    }
+}
